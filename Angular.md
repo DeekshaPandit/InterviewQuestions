@@ -6,3 +6,5 @@
  * What is navigation guards and its uses?
  * How do we define services in angular?
  * What is Router outlet?
+ * What are the steps of creating an angular project?
+ * How does two component pass data to each other?
