@@ -7,3 +7,8 @@
 6) What is data reactivity?
 7) What is one way binding?
 8) Name some predefined directives in Vue?
+9) How do you pass data from one route to another route?
+10) What is Diffing? When you update something on component what it is does in behind?
+11) What makes you to use Vue over other competitive frameworks?
+12) How event binding works in Vue?
+13) How do you work on Parent to Child data communication?
